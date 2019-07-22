@@ -1,3 +1,3 @@
 # AndroidTooltips
 Android Tooltips
-https://tutorial.eyehunt.in/android/android-tooltips-user-interface-example-kotlin/
+https://tutorial.eyehunts.com/android/android-tooltips-user-interface-example-kotlin/
